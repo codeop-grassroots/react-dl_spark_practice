@@ -32,7 +32,8 @@ To preserve your work:
 `````
 sudo chown 1000 ~/nbs
 `````
-
+#### Get Started
+In order to load the data into the notebook you will need to create a folder called **data** (work/data/) and put the 3 folders with the parquet files that has been already provided to you.
 
 ### The project
 
