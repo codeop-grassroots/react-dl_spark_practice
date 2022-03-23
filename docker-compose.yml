@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  jupyter:
+    image: jupyter/pyspark-notebook:latest
+    environment:
+      - JUPYTER_TOKEN=codeop
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./nbs/:/home/jovyan/work
