@@ -37,5 +37,5 @@ In order to load the data into the notebook you will need to create a folder cal
 
 ### The project
 
-`warm_up.ipynb` => In this notebook you will find the questions you need to find an answer. Question 1 and 5 have already been solved to get you familiarized with the Spark SQL syntax<br>
-Hint: Think how would you do this with plain SQL and then find the way to translate the plain SQL syntax to Sqpar SQL.
+`warm_up.ipynb` => In this notebook you will find the questions you need to find an answer. Question 1 and 5 have already been solved to get you familiarized with the Spark DataFrame syntax<br>
+Hint: Think how would you do this with plain SQL and then find the way to translate the plain SQL syntax to Spark DataFrame syntax.
