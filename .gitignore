@@ -35,3 +35,6 @@ nbs/data/
 # vim stuff
 *.swp
 
+# ends with solved
+*solved.ipynb
+
